@@ -1,0 +1,4 @@
+site_name: Mi Practica RSE
+theme: readthedocs
+nav:
+  - Home: index.md

@@ -1,0 +1,17 @@
+
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "grobid-article-analysis",
+    "description": "Herramienta para extraer metadatos de PDFs científicos usando Grobid y Docker.",
+    "authors": [
+        {
+            "@type": "Person",
+            "givenName": "bouchra",
+            "familyName": "zalamia"
+        }
+    ],
+    "programmingLanguage": "Python",
+    "runtimePlatform": "Docker",
+    "license": "https://spdx.org/licenses/CC-BY-NC-SA-4.0"
+}
